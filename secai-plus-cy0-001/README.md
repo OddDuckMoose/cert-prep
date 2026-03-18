@@ -19,19 +19,22 @@ CompTIA's first certification focused on securing, governing, and responsibly in
 | Domain | Weight | Directory |
 |--------|--------|-----------|
 | 1.0 Basic AI Concepts Related to Cybersecurity | 17% | [domain-1-ai-concepts](./question-bank/domain-1-ai-concepts/) |
-| 2.0 Securing AI Systems | 28% | [domain-2-securing-ai](./question-bank/domain-2-securing-ai/) |
-| 3.0 AI-Assisted Cybersecurity | 36% | [domain-3-ai-cybersecurity](./question-bank/domain-3-ai-cybersecurity/) |
-| 4.0 AI Governance, Risk & Compliance | 19% | [domain-4-ai-grc](./question-bank/domain-4-ai-grc/) |
+| 2.0 AI-Driven Threats | ~23% | [domain-2-ai-threats](./question-bank/domain-2-ai-threats/) |
+| 3.0 Securing AI Systems | ~30% | [domain-3-securing-ai](./question-bank/domain-3-securing-ai/) |
+| 4.0 AI-Assisted SecOps | ~17% | [domain-4-ai-secops](./question-bank/domain-4-ai-secops/) |
+| 5.0 AI Governance, Risk & Compliance | ~13% | [domain-5-ai-grc](./question-bank/domain-5-ai-grc/) |
 
 ## Study Progress
 
 - [ ] Domain 1 — Basic AI Concepts (17%)
-- [ ] Domain 2 — Securing AI Systems (28%)
-- [ ] Domain 3 — AI-Assisted Cybersecurity (36%)
-- [ ] Domain 4 — AI GRC (19%)
+- [ ] Domain 2 — AI-Driven Threats (~23%)
+- [ ] Domain 3 — Securing AI Systems (~30%)
+- [ ] Domain 4 — AI-Assisted SecOps (~17%)
+- [ ] Domain 5 — AI GRC (~13%)
 - [ ] Full practice exam pass (≥ 600)
 
 ## Resources
 
 - [Official CompTIA SecAI+ Page](https://www.comptia.org/certifications/secai/)
 - [Exam Objectives PDF](https://www.onlc.com/graphics/Publications/CompTIA/comptia-secai-cy0-001-exam-objectives.pdf)
+
