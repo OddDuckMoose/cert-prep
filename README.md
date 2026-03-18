@@ -4,6 +4,7 @@
 
 Built for cybersecurity professionals preparing for CompTIA certifications. Every question includes the correct answer, a full explanation of *why* it's correct, and *why* the other choices are wrong. Questions are scenario-based and aligned with official exam objectives.
 
+Continually adding resource materials, preperations, and modules. Let me know if something should be added!!
 ---
 
 ## 📋 Certifications Covered
