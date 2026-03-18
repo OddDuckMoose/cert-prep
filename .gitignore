@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# PDFs (keep originals local, use markdown in repo)
+# Uncomment below if you want to exclude PDFs entirely
+# *.pdf
+
+# Compiled/temp
+*.pyc
+__pycache__/
+*.tmp
