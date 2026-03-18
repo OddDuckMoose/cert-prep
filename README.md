@@ -25,10 +25,6 @@ cert-prep/
 └── README.md
 ```
 
-## Adding a New Certification
-
-Create a new directory at the root following the pattern: `cert-name-exam-code/` and replicate the subdirectory structure as needed.
-
 ## License
 
 This work is licensed under [CC BY-NC 4.0](./LICENSE) — free to share and adapt for non-commercial use with attribution.
