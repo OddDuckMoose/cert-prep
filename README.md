@@ -9,10 +9,10 @@ Continually adding resource materials, preperations, and modules. Let me know if
 
 ## 📋 Certifications Covered
 
-| Certification | Exam Code | Questions | Domains | Status |
-|--------------|-----------|-----------|---------|--------|
-| [**Security+**](./security-plus-sy0-701/) | SY0-701 | 120 | 5 | ✅ Complete |
-| [**SecAI+**](./secai-plus-cy0-001/) | CY0-001 | 120 | 5 | ✅ Complete |
+| Certification | Exam Code | Questions | Domains |
+|--------------|-----------|-----------|---------|
+| [**Security+**](./security-plus-sy0-701/) | SY0-701 | 120 | 5 |
+| [**SecAI+**](./secai-plus-cy0-001/) | CY0-001 | 120 | 5 | 
 
 ## 🎯 Who This Is For
 
